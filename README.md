@@ -168,11 +168,10 @@ and the | Holy Ghost*
 **C: Amen**
 
 # Lesson plans
-## Lesson 1
+## Lesson 1 (+49-52 min)
 ### Opening (t+8-10 min)
 ### Game 1: Set (t+20 min)
-### Game 2: Intersection
+### Game 2: Intersection (t+20 min)
 #### Team (t+10 min)
 #### Individual (t+10 min)
 ### Closing (t+1-2 min)
-### TOTAL TIME: 49-52 min
