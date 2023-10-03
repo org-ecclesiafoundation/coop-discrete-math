@@ -6,7 +6,7 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 ### Invocatio (Invocation)
 
-_L: In the name of the Father and | of the Son*
+_L: In the name of the Father and | of the Son*  
 &nbsp;&nbsp;and of the | Holy Ghost._
 
 **C: Amen**
