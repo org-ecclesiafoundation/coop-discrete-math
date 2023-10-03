@@ -139,5 +139,5 @@ The works of the | LORD are great,*
 
 The almighty and mer- | ciful Lord,*  
 &nbsp;&nbsp;the Fa- | ther, the Son,  
-and the Ho- | ly Spirit*  
+and the | Holy Ghost*  
 &nbsp;&nbsp;be | with us all. A- | men, Amen.  
