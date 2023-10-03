@@ -1,4 +1,5 @@
-# coop-discrete-math
+# Discrete Math and Programming
+
 Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 ## Psalm 111  
@@ -50,3 +51,8 @@ as it was in the beginning,
 The works of the | LORD are great,  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
 
+## 10 Commandments
+
+## Apostle's Creed
+
+## Lord's Prayer
