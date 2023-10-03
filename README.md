@@ -12,8 +12,8 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 <tr>
 <td>
 
-_Ant:_ The works of the | LORD are great,*  
-&nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
+_Ant: The works of the | LORD are great,*  
+&nbsp;&nbsp;Sought out of all them that have pleas- | ure therein._  
 
 Praise ye the LORD. I will praise the LORD with | my whole heart,*  
 &nbsp;&nbsp;In the assembly of the upright, and in the con- | gregation.  
@@ -55,8 +55,8 @@ as it was in the beginning,
 &nbsp;&nbsp;world without end.  
 &nbsp;&nbsp;A- | men, amen.  
 
-_Ant:_ The works of the | LORD are great,*  
-&nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
+_Ant: The works of the | LORD are great,*  
+&nbsp;&nbsp;Sought out of all them that have pleas- | ure therein._  
 
 </td>
 </tr>
