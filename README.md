@@ -2,7 +2,9 @@
 
 Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
-## Psalmus 111 (Psalm 111)
+## Opening
+
+### Psalmus 111 (Psalm 111)
 
 <img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=33%>  
 
@@ -57,8 +59,8 @@ Antiphon:
 The works of the | LORD are great,*  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
 
-## Decalogus (The Ten Commandments)
-### Commandments
+### Decalogus (The Ten Commandments)
+#### Commandments
 1. You shall have no other gods.
 2. You shall not misuse the name of the LORD your God.
 3. Remember the Sabbath day by keeping it holy.
@@ -69,16 +71,16 @@ The works of the | LORD are great,*
 8. You shall not give false testimony against your neighbor.
 9. You shall not cover your neighbor's house.
 10. You shall not cover your neighbor's wife, or his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor.
-### The Close of the Commandments
+#### The Close of the Commandments
 _What does God say about all these commandments?_  
 He says, "I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generations of those who hate Me, but showing love to a thousand generations of those who love Me and keep My commandments (Exodus 20:5-6)"
 
-## Credo (Creed)
+### Credo (Creed)
 I believe in God, the Father Almighty, Maker of heaven and earth.  
 And in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried. He descended into hell. The third day he rose again from the dead. He ascended into heaven and sits at the right hand of God, the Father Almighty. From thence He will come to judge the living and the dead.  
 I believe in the Holy Spirit, the holy Christian Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. Amen.  
 
-## Pater noster (Our Father)
+### Pater noster (Our Father)
 Our Father who art in heaven.  
 Hallowed be Thy name.  
 Thy kingdom come.  
@@ -89,7 +91,7 @@ And lead us not into temptation.
 But deliver us from evil.  
 (For Thine is the kingdom and the power and the glory forever and ever.) Amen  
 
-## Hymnus (Hymn): My Heart Delights, O Lord
+### Hymnus (Hymn): My Heart Delights, O Lord
 
 ![Hymn Notes](./assets/img/my-heart-delights-o-lord.jpg)
 
