@@ -170,19 +170,9 @@ and the | Holy Ghost*
 # Lesson plans
 ## Lesson 1
 ### Opening (t+8-10 min)
-#### Invocatio
-#### Psalm 111
-#### Ten Commandments
-#### Creed
-#### Lord's Prayer
-#### Hymn: My Heart Delights, O Lord
 ### Game 1: Set (t+20 min)
 ### Game 2: Intersection
 #### Team (t+10 min)
 #### Individual (t+10 min)
 ### Closing (t+1-2 min)
-#### Resources for Next Time
-#### Gloria Patri
-#### Antiphon
-#### Benedictio
 ### TOTAL TIME: 49-52 min
