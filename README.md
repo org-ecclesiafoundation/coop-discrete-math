@@ -8,12 +8,8 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 <img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
 
-#### Antiphon
-
-The works of the | LORD are great,*  
+_Ant:_ The works of the | LORD are great,*  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
-
----
 
 Praise ye the LORD. I will praise the LORD with | my whole heart,*  
 &nbsp;&nbsp;In the assembly of the upright, and in the con- | gregation.  
@@ -52,11 +48,7 @@ as it was in the beginning,
 &nbsp;&nbsp;world without end.  
 &nbsp;&nbsp;A- | men, amen.  
 
----
-
-#### Antiphon
-
-The works of the | LORD are great,*  
+_Ant:_ The works of the | LORD are great,*  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
 
 ### Decalogus (The Ten Commandments)
