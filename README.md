@@ -6,7 +6,7 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 ### Invocatio (Invocation)
 
-_L: In the name of the Father and | of the Son*  
+_L: In the name of the [+] Father and | of the Son*  
 &nbsp;&nbsp;and of the | Holy Ghost._
 
 **C: Amen**
@@ -95,9 +95,14 @@ _What does God say about all these commandments?_
 He says, "I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generations of those who hate Me, but showing love to a thousand generations of those who love Me and keep My commandments (Exodus 20:5-6)"
 
 ### Credo (Creed)
-I believe in God, the Father Almighty, Maker of heaven and earth.  
-And in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried. He descended into hell. The third day he rose again from the dead. He ascended into heaven and sits at the right hand of God, the Father Almighty. From thence He will come to judge the living and the dead.  
-I believe in the Holy Spirit, the holy Christian Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. Amen.  
+I believe in God, the Father | Almighty,*  
+&nbsp;Maker of hea- | ven and earth.  
+And in Jesus Christ, His only | Son, our Lord,*  
+who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried. He descended | into hell.  
+The third day he rose again from the dead. He ascended into heaven and sits at the right hand of God, the Father | Almighty.*
+&nbsp;From thence He will come to judge the living | and the dead.  
+I believe in the Holy Spirit, the holy Christian Church, the commun- | ion of saints,*
+&nbsp;the forgiveness of sins, the resurrection of the body, and the [+] life everlasting. | Amen.  
 
 ### Pater noster (Our Father)
 Our Father who art in heaven.  
@@ -107,7 +112,7 @@ Thy will be done on earth as it is in heaven.
 Give us this day our daily bread.  
 And forgive us our trespasses as we forgive those who trespass against us.  
 And lead us not into temptation.  
-But deliver us from evil.  
+But [+] deliver us from evil.  
 (For Thine is the kingdom and the power and the glory forever and ever.) Amen  
 
 ### Hymnus (Hymn): My Heart Delights, O Lord
@@ -161,7 +166,7 @@ The works of the | LORD are great,*
 ### Benedictio (Benediction / Blessing)
 
 _L: The almighty and merciful Lord,  
-&nbsp;&nbsp;the Father, the Son,  
+&nbsp;&nbsp;the [+] Father, the Son,  
 &nbsp;and the Holy Ghost  
 &nbsp;&nbsp;bless us and keep us._
 
