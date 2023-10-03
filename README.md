@@ -2,7 +2,7 @@
 
 Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
-## Opening (10 min)
+## Opening
 
 ### Invocatio (Invocation)
 
@@ -140,6 +140,8 @@ Amen.
 
 ## Closing 
 
+### Resources for Next Time
+
 <img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
 
 ### Gloria Patri
@@ -169,7 +171,7 @@ and the | Holy Ghost*
 
 ## Lesson 1
 
-### Opening
+### Opening (10 min)
 
 #### Psalm 111
 
@@ -181,13 +183,15 @@ and the | Holy Ghost*
 
 #### Hymn: My Heart Delights, O Lord
 
-### Game 1: Set
+### Game 1: Set (20 min)
 
-### Game 2: Intersection (Team)
+### Game 2: Intersection (Team) (10 min)
 
-### Game 3: Intersection (Individual)
+### Game 3: Intersection (Individual) (10 min)
 
-### Closing
+### Closing (2 min)
+
+#### Resources for Next Time
 
 #### Gloria Patri
 
