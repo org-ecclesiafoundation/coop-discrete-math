@@ -6,7 +6,7 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 ### Psalmus 111 (Psalm 111)
 
-<img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=33%>  
+<img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
 
 #### Antiphon
 
@@ -121,7 +121,7 @@ Amen.
 
 ## Closing
 
-<img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=33%>  
+<img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
 
 ### Gloria Patri
 
