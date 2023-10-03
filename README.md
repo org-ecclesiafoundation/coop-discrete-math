@@ -171,7 +171,7 @@ and the | Holy Ghost*
 
 ## Lesson 1
 
-### Opening (8-10 min)
+### Opening (t+8-10 min)
 
 #### Invocatio
 
@@ -185,13 +185,13 @@ and the | Holy Ghost*
 
 #### Hymn: My Heart Delights, O Lord
 
-### Game 1: Set (20 min)
+### Game 1: Set (t+20 min)
 
-### Game 2: Intersection (Team) (10 min)
+### Game 2: Intersection (Team) (t+10 min)
 
-### Game 3: Intersection (Individual) (10 min)
+### Game 3: Intersection (Individual) (t+10 min)
 
-### Closing (1-2 min)
+### Closing (t+1-2 min)
 
 #### Resources for Next Time
 
@@ -200,3 +200,5 @@ and the | Holy Ghost*
 #### Antiphon
 
 #### Benedictio
+
+### TOTAL TIME: 49-52 min
