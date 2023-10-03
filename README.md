@@ -14,7 +14,7 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 </th>
 <th>
 
-<img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
+<img src="./assets/img/ps111-tone.png" alt="Psalm Tone">  
 
 </th>
 </tr>
