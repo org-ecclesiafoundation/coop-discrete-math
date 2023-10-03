@@ -30,11 +30,11 @@ He hath made his wonderful works to be | remembered:*
 He hath given meat unto them | that fear him:*  
 &nbsp;&nbsp;He will ever be mindful of his | covenant.  
 
-He hath shewed his people the power | of his works,*  
-&nbsp;&nbsp;That he may give them the heritage of | the heathen.  
-
 </td>
 <td>
+
+He hath shewed his people the power | of his works,*  
+&nbsp;&nbsp;That he may give them the heritage of | the heathen.  
 
 The works of his hands are verity | and judgment;*  
 &nbsp;&nbsp;All of his command- | ments are sure.  
