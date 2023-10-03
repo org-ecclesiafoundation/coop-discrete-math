@@ -117,12 +117,6 @@ Amen.
 
 ## Lesson
 
-### Game 1: Set
-
-### Game 2: Intersection (Team)
-
-### Game 3: Intersection (Individual)
-
 ## Closing
 
 <img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=33%>  
@@ -147,3 +141,13 @@ The almighty and mer- | ciful Lord,*
 &nbsp;&nbsp;the Fa- | ther, the Son,  
 and the | Holy Ghost*  
 &nbsp;&nbsp;be with us all. A- | men, Amen.  
+
+# Lesson plans
+
+## Lesson 1
+
+### Game 1: Set
+
+### Game 2: Intersection (Team)
+
+### Game 3: Intersection (Individual)
