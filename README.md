@@ -98,10 +98,10 @@ He says, "I, the LORD your God, am a jealous God, punishing the children for the
 I believe in God, the Father | Almighty,*  
 &nbsp;Maker of hea- | ven and earth.  
 And in Jesus Christ, His only | Son, our Lord,*  
-who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried. He descended | into hell.  
-The third day he rose again from the dead. He ascended into heaven and sits at the right hand of God, the Father | Almighty.*
+&nbsp;who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried. He descended | into hell.  
+The third day he rose again from the dead. He ascended into heaven and sits at the right hand of God, the Father | Almighty.*  
 &nbsp;From thence He will come to judge the living | and the dead.  
-I believe in the Holy Spirit, the holy Christian Church, the commun- | ion of saints,*
+I believe in the Holy Spirit, the holy Christian Church, the commun- | ion of saints,*  
 &nbsp;the forgiveness of sins, the resurrection of the body, and the [+] life everlasting. | Amen.  
 
 ### Pater noster (Our Father)
