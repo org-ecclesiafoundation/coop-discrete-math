@@ -19,7 +19,7 @@ _L: In the name of the_ [+] _Father and | of the Son*
 </th>
 <th>
 
-<img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=60%>  
+<img src="../assets/img/ps111-tone.png" alt="Psalm Tone" width=60%>  
 
 </th>
 </tr>
@@ -119,7 +119,7 @@ But [+] deliver us from evil.
 
 ### Hymnus (Hymn): My Heart Delights, O Lord
 
-<img src="./assets/img/my-heart-delights-o-lord.jpg" alt="Hymn Notes" width=70%>
+<img src="../assets/img/my-heart-delights-o-lord.jpg" alt="Hymn Notes" width=70%>
 
 1. My heart delights, O Lord, upon Thy works to ponder,  
 My lips would chant the praises of Thy wondrous might;  
@@ -149,7 +149,7 @@ Amen.
 
 ### Resources for Next Time
 
-<img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
+<img src="../assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
 
 ### Gloria Patri
 
