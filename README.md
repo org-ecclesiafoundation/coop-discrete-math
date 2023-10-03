@@ -121,6 +121,8 @@ Amen.
 
 <img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=33%>  
 
+### Gloria Patri
+
 Glory be to the Father and | to the Son*   
 &nbsp;&nbsp;and to the | Holy Ghost,  
 as it was in the beginning,  
@@ -128,14 +130,12 @@ as it was in the beginning,
 &nbsp;&nbsp;world without end.  
 &nbsp;&nbsp;A- | men, amen.  
 
----
-
-Antiphon:  
+### Antiphon
 
 The works of the | LORD are great,*  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
 
----
+### Benedictio (Benediction / Blessing)
 
 The almighty and mer- | ciful Lord,*  
 &nbsp;&nbsp;the Fa- | ther, the Son,  
@@ -146,8 +146,28 @@ and the | Holy Ghost*
 
 ## Lesson 1
 
+### Opening
+
+#### Psalm 111
+
+#### Ten Commandments
+
+#### Creed
+
+#### Lord's Prayer
+
+#### Hymn: My Heart Delights, O Lord
+
 ### Game 1: Set
 
 ### Game 2: Intersection (Team)
 
 ### Game 3: Intersection (Individual)
+
+### Closing
+
+#### Gloria Patri
+
+#### Antiphon
+
+#### Benedictio
