@@ -52,6 +52,29 @@ The works of the | LORD are great,
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
 
 ## 10 Commandments
+### The First Commandment
+You shall have no other gods.
+### The Second Commandment
+You shall not misuse the name of the LORD your God.
+### The Third Commandment
+Remember the Sabbath day by keeping it holy.
+### The Fourth Commandment
+Honor your father and your mother.
+### The Fifth Commandment
+You shall not murder.
+### The Sixth Commandment
+You shall not commit adultery.
+### The Seventh Commandment
+You shall not steal.
+### The Eighth Commandment
+You shall not give false testimony against your neighbor.
+### The Ninth Commandment
+You shall not cover your neighbor's house.
+### The Tenth Commandment
+You shall not cover your neighbor's wife, or his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor.
+### The Close of the Commandments
+_What does God say about all these commandments?_  
+He says, "I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generations of those who hate Me, but showing love to a thousand generations of those who love Me and keep My commandments (Exodus 20:5-6)"
 
 ## Apostle's Creed
 
