@@ -171,7 +171,9 @@ and the | Holy Ghost*
 
 ## Lesson 1
 
-### Opening (10 min)
+### Opening (8-10 min)
+
+#### Invocatio
 
 #### Psalm 111
 
@@ -189,7 +191,7 @@ and the | Holy Ghost*
 
 ### Game 3: Intersection (Individual) (10 min)
 
-### Closing (2 min)
+### Closing (1-2 min)
 
 #### Resources for Next Time
 
