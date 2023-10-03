@@ -140,4 +140,4 @@ The works of the | LORD are great,*
 The almighty and mer- | ciful Lord,*  
 &nbsp;&nbsp;the Fa- | ther, the Son,  
 and the | Holy Ghost*  
-&nbsp;&nbsp;be | with us all. A- | men, Amen.  
+&nbsp;&nbsp;be with us all. A- | men, Amen.  
