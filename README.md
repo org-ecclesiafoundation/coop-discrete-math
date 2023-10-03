@@ -160,18 +160,25 @@ The works of the | LORD are great,*
 
 ### Benedictio (Benediction / Blessing)
 
-_L: The almighty and mer- | ciful Lord,*  
-&nbsp;&nbsp;the Fa- | ther, the Son,  
-and the | Holy Ghost*  
-&nbsp;&nbsp;be | with us all._
+_L: The almighty and merciful Lord,  
+&nbsp;&nbsp;the Father, the Son,  
+&nbsp;and the Holy Ghost  
+&nbsp;&nbsp;bless us and keep us._
 
 **C: Amen**
 
 # Lesson plans
 ## Lesson 1 (+49-52 min)
-### Opening (t+8-10 min)
-### Game 1: Set (t+20 min)
-### Game 2: Intersection (t+20 min)
-#### Team (t+10 min)
-#### Individual (t+10 min)
-### Closing (t+1-2 min)
+### Agenda
+#### Opening (t+8-10 min)
+#### Game 1: Set (t+20 min)
+#### Game 2: Intersection (t+20 min)
+##### Team (t+10 min)
+##### Individual (t+10 min)
+#### Closing (t+1-2 min)
+### Resources
+#### Set
+#### Intersection
+
+
+### Glossary
