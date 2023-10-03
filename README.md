@@ -105,7 +105,7 @@ But deliver us from evil.
 
 ### Hymnus (Hymn): My Heart Delights, O Lord
 
-![Hymn Notes](./assets/img/my-heart-delights-o-lord.jpg)
+<img src="./assets/img/my-heart-delights-o-lord.jpg", alt="Hymn Notes", width=70%>
 
 1. My heart delights, O Lord, upon Thy works to ponder,  
 My lips would chant the praises of Thy wondrous might;  
