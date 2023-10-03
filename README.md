@@ -56,3 +56,7 @@ The works of the | LORD are great,
 ## Apostle's Creed
 
 ## Lord's Prayer
+
+## My Heart Delights, O Lord
+
+![Hymn Notes](./assets/img/my-heart-delights-o-lord.jpg)
