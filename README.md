@@ -136,7 +136,7 @@ May we, Thy gracious gifts in all their richness prizing,
 Be found for aye in Thine employ.  
 Amen.  
 
-## Lesson
+## Study
 
 ## Closing 
 
