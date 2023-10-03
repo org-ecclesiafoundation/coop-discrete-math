@@ -8,7 +8,7 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 <img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=33%>  
 
-Antiphon:  
+#### Antiphon
 
 The works of the | LORD are great,*  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
@@ -54,7 +54,7 @@ as it was in the beginning,
 
 ---
 
-Antiphon:
+#### Antiphon
 
 The works of the | LORD are great,*  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
