@@ -108,3 +108,25 @@ But deliver us from evil.
 ## My Heart Delights, O Lord
 
 ![Hymn Notes](./assets/img/my-heart-delights-o-lord.jpg)
+
+1. My heart delights, O Lord, upon Thy works to ponder,  
+My lips would chant the praises of Thy wondrous might;  
+And so I join the chorus of the saints up yonder,  
+Who magnify Thee day and night.  
+2. Whate'er this great and mighty universe containeth  
+Came into being straightway at Thy beck and call;  
+Thou dost whate'er Thy sov'reign will, O Lord, ordaineth.  
+Thou art indeed the Source of all.  
+3. Some day this world will like a fleeting shadow vanish,  
+Its glory like a waning light will pass away;  
+But naught Thy Word of truth and might from us shall banish,  
+It shall endure, O Lord, for aye.  
+4. Each day anew Thy mercy prompts Thee, Lord, to feed us,  
+Our grateful hearts delight in Thine unfathomed love;  
+Thou into verdant pastures evermore dost lead us  
+And sendest blessings from above.  
+5. O may our hymns of praise to Thee be daily rising,  
+May we in Thee alone behold our Fount of joy;  
+May we, Thy gracious gifts in all their richness prizing,  
+Be found for aye in Thine employ.  
+Amen.  
