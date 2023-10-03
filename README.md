@@ -80,19 +80,23 @@ _Ant: The works of the | LORD are great,*
 
 ### Decalogus (The Ten Commandments)
 #### Commandments
-1. You shall have no other gods.
-2. You shall not misuse the name of the LORD your God.
-3. Remember the Sabbath day by keeping it holy.
-4. Honor your father and your mother.
-5. You shall not murder.
-6. You shall not commit adultery.
-7. You shall not steal.
-8. You shall not give false testimony against your neighbor.
-9. You shall not covet your neighbor's house.
-10. You shall not covet your neighbor's wife, or his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor.
-#### The Close of the Commandments
-_What does God say about all these commandments?_  
-He says, "I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generations of those who hate Me, but showing love to a thousand generations of those who love Me and keep My commandments (Exodus 20:5-6)"
+1. You shall have no | other gods.*
+2. You shall not misuse the name of the | LORD your God.
+3. Remember the Sabbath day by keeping it | holy.*
+4. Honor your father and | your mother.
+5. You shall not | murder.*
+6. You shall not commit | adultery.
+7. You | shall not steal.*
+8. You shall not give false testimony against | your neighbor.
+9. You shall not covet your | neighbor's house.*
+10. You shall not covet your neighbor's wife, or his manservant or maidservant, his ox or donkey, or anything that belongs to | your neighbor.
+#### The Close of the | Commandments*
+_What does God say about all these | commandments?_  
+He says, "I, the LORD your God, am a | jealous God,*  
+&nbsp;&nbsp;punishing the children for the sin of the fathers to the third and fourth generations of those | who hate Me,  
+but showing love to a thousand gener- | ations*  
+&nbsp;&nbsp;of those who love Me and keep My | commandments"  
+(Exodus 20:5-6)
 
 ### Credo (Creed)
 I believe in God, the Father | Almighty,*  
