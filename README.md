@@ -6,7 +6,7 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 ### Invocatio (Invocation)
 
-_L: In the name of the [+] Father and | of the Son*  
+_L: In the name of the_ [+] _Father and | of the Son*  
 &nbsp;&nbsp;and | of the | Holy Ghost._
 
 **C: Amen. Amen. Amen.**
@@ -170,7 +170,7 @@ The works of the | LORD are great,*
 ### Benedictio (Benediction / Blessing)
 
 _L: The almighty and merciful Lord,  
-&nbsp;&nbsp;the [+] Father, the Son,  
+&nbsp;&nbsp;the_ [+] _Father, the Son,  
 &nbsp;and the Holy Ghost  
 &nbsp;&nbsp;bless us and keep us._
 
