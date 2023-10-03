@@ -2,7 +2,14 @@
 
 Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
-## Opening
+## Opening (10 min)
+
+### Invocatio (Invocation)
+
+_L: In the name of the Father and | of the Son*
+&nbsp;&nbsp;and of the | Holy Ghost._
+
+**C: Amen**
 
 <table>
 
@@ -131,7 +138,7 @@ Amen.
 
 ## Lesson
 
-## Closing
+## Closing 
 
 <img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
 
@@ -151,10 +158,12 @@ The works of the | LORD are great,*
 
 ### Benedictio (Benediction / Blessing)
 
-The almighty and mer- | ciful Lord,*  
+_L: The almighty and mer- | ciful Lord,*  
 &nbsp;&nbsp;the Fa- | ther, the Son,  
 and the | Holy Ghost*  
-&nbsp;&nbsp;be with us all. A- | men, Amen.  
+&nbsp;&nbsp;be | with us all._
+
+**C: Amen**
 
 # Lesson plans
 
