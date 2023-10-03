@@ -3,7 +3,7 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 ## Psalm 111
 
-![Psalm Tone](./assets/img/ps111-tone.png)
+<img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=50%>
 
 Antiphon:
 
