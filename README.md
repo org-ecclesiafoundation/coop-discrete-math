@@ -8,6 +8,10 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 <img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
 
+<table>
+<tr>
+<td>
+
 _Ant:_ The works of the | LORD are great,*  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
 
@@ -28,6 +32,9 @@ He hath given meat unto them | that fear him:*
 
 He hath shewed his people the power | of his works,*  
 &nbsp;&nbsp;That he may give them the heritage of | the heathen.  
+
+</td>
+<td>
 
 The works of his hands are verity | and judgment;*  
 &nbsp;&nbsp;All of his command- | ments are sure.  
@@ -50,6 +57,10 @@ as it was in the beginning,
 
 _Ant:_ The works of the | LORD are great,*  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein.  
+
+</td>
+</tr>
+</table>
 
 ### Decalogus (The Ten Commandments)
 #### Commandments
