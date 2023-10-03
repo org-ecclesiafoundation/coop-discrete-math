@@ -4,11 +4,20 @@ Discrete Math / Programming Repository for Homeschool Co-Op beginning Oct. 2023
 
 ## Opening
 
+<table>
+
+<tr>
+<th>
+
 ### Psalmus 111 (Psalm 111)
+
+</th>
+<th>
 
 <img src="./assets/img/ps111-tone.png" alt="Psalm Tone" width=40%>  
 
-<table>
+</th>
+</tr>
 <tr>
 <td>
 
