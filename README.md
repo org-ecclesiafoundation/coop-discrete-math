@@ -88,8 +88,8 @@ _Ant: The works of the | LORD are great,*
 6. You shall not commit adultery.
 7. You shall not steal.
 8. You shall not give false testimony against your neighbor.
-9. You shall not cover your neighbor's house.
-10. You shall not cover your neighbor's wife, or his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor.
+9. You shall not covet your neighbor's house.
+10. You shall not covet your neighbor's wife, or his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor.
 #### The Close of the Commandments
 _What does God say about all these commandments?_  
 He says, "I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generations of those who hate Me, but showing love to a thousand generations of those who love Me and keep My commandments (Exodus 20:5-6)"
