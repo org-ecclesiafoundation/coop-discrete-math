@@ -22,3 +22,6 @@ go.work
 
 # iPython Checkpoints
 **/.ipynb_checkpoints
+
+# IDEA
+**/.idea
