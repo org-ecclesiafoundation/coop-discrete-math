@@ -12,24 +12,27 @@ import (
 
 func main() {
 	heterogramsJson := os.Args[1]
+	fmt.Println(heterogramsJson)
 	difficulty, difficultyErr := strconv.Atoi(os.Args[2])
 	if difficultyErr != nil {
 		panic(difficultyErr)
 	}
+	fmt.Println(difficulty)
 	countsLengths := os.Args[3:]
+	fmt.Println(countsLengths)
 	var counts []int
 	var lengths []int
 	for idx := 0; idx < len(countsLengths); idx += 2 {
 		c, cErr := strconv.Atoi(countsLengths[idx])
-		l, lErr := strconv.Atoi(countsLengths[idx])
+		l, lErr := strconv.Atoi(countsLengths[idx+1])
 		if cErr != nil || lErr != nil {
 			panic("error converting counts and lengths")
 		}
 		counts = append(counts, c)
 		lengths = append(lengths, l)
 	}
-	fmt.Printf("Counts: %d\n", counts)
-	fmt.Printf("Lengths: %d\n", counts)
+	fmt.Println(counts)
+	fmt.Println(lengths)
 
 	data, fileReadErr := os.Open(heterogramsJson)
 	if fileReadErr != nil {
@@ -49,10 +52,12 @@ func main() {
 	}
 
 	var words []string
-	for _, length := range lengths {
-		for _, count := range counts {
-			word := heterograms[strconv.Itoa(length)][count]
-			words = append(words, word)
+	for idx, l := range lengths {
+		wordsOfLengthL := heterograms[strconv.Itoa(l)]
+		fmt.Println(wordsOfLengthL)
+		howManyWords := counts[idx]
+		for count := 0; count < howManyWords; count++ {
+			words = append(words, wordsOfLengthL[count])
 		}
 	}
 
