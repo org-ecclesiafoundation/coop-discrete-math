@@ -65,7 +65,8 @@ func main() {
 	for _, word := range words {
 		problems = append(problems, GenerateProblem(difficulty, word))
 	}
-	for _, problem := range problems {
+	for idx, problem := range problems {
+		fmt.Println("## " + strconv.Itoa(idx+1))
 		fmt.Println(problem)
 	}
 }
