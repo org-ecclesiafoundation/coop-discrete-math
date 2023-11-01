@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5bn4FY5Y2A2ha7XwxvjLM2HZMxbOdEVzdkISJYfmfRk7FiKFdtjwST6E1q7/nVQ/p0zomAcZz0k11U2H+qxnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\para\\projects\\org.ecclesiafoundation\\coop-discrete-math\\binary\\binary.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
