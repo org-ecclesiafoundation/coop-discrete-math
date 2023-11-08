@@ -20,7 +20,7 @@ def game_loop():
         game_state['inventory']['coins'] += 10
         game_state['level'] += 1
         for enemy in game_state['enemies']:
-            enemy['hp'] -= 10  # Each enemy takes some damage
+            enemy['hp'] -= 10
 
         print(f"Turn {turn + 1} completed.")
     
