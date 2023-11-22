@@ -20,7 +20,7 @@ class Success(Result):
 class Failure(Result):
     pass
 
-def foo(r: Result, stuff_to_concat: str = "") -> Result:
+def concat_to_msg(r: Result, stuff_to_concat: str = "") -> Result:
     new_result = deepcopy(r)
     if new_result.msg == None:
         new_result.msg = stuff_to_concat
@@ -177,22 +177,24 @@ class Game_State:
         self.player_number += 1
         if self.players.how_many() < self.player_number:
             self.player_number = 1
-        return Success(data = self).bind(foo, stuff_to_concat = self.bar())
+        return Success(data = self).bind(concat_to_msg, stuff_to_concat = self.game_info_string())
     
-    def bar(self) -> str:
+    def game_info_string(self) -> str:
         return f"{self.current_player().msg}\n{Event().choices().msg}"
 
-    def baz(self) -> Result:
-        return Success().bind(foo, stuff_to_concat = self.bar())
+    def game_info_result(self) -> Result:
+        return Success().bind(concat_to_msg, stuff_to_concat = self.game_info_string())
 
     def handle(self, event: Event) -> Result:
         match event.type:
             case EventType.Get_Game_State:
-                return Success(data = self).bind(foo, stuff_to_concat = self.bar())
+                return Success(data = self).bind(concat_to_msg, stuff_to_concat = self.game_info_string())
             case EventType.Take_Turn:
                 return self.take_turn()
+            case EventType.Move:
+                return Failure(msg = "Please implement move.\n").bind(concat_to_msg, stuff_to_concat = self.game_info_string())
             case _ :
-                return Failure(msg = f"Invalid Event {event.current_input}\n").bind(foo, stuff_to_concat = self.bar())
+                return Failure(msg = f"Invalid Event {event.current_input}\n").bind(concat_to_msg, stuff_to_concat = self.game_info_string())
 def main():
     print("Welcome to the game!")
     
@@ -212,7 +214,7 @@ def main():
                 player_count = player_count + 1
                 
     print(gs)
-    print(gs.baz().msg)
+    print(gs.game_info_result().msg)
 
     while True:
         current_input = input("Please take an action (q to quit game): ")
