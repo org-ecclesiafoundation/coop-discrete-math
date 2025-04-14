@@ -29,7 +29,7 @@ _L: In the name of the_ [+] _Father and | of the Son*
 _Ant: The works of the | LORD are great,*  
 &nbsp;&nbsp;Sought out of all them that have pleas- | ure therein._  
 
-Praise ye the LORD. I will praise the LORD with | my whole heart,*  
+Hallelujah! I will praise the LORD with | my whole heart,*  
 &nbsp;&nbsp;In the assembly of the upright, and in the con- | gregation.  
 
 The works of the | LORD are great,*  
